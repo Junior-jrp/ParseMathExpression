@@ -2,7 +2,7 @@
 
 # ParseMathExpression 
 
-**Um analisador léxico e sintático de expressões matemáticas com uma interface gráfica moderna e robusta, construída em Python e PySide6.**
+**Um analisador léxico e sintático de expressões matemáticas, construído em Python e PySide6.**
 
 </div>
 
@@ -64,7 +64,7 @@
 
 - **Linguagem:** **Python 3**
 - **Interface Gráfica:** **PySide6 (Qt for Python)**
-- **Conceitos de Teoria da Computação:**
+- **Conceitos:**
   - **Análise Léxica:** Uso de expressões regulares para dividir a string de entrada em uma sequência de *tokens* (números, operadores, etc.).
   - **Análise Sintática:** Construção de uma **Árvore Sintática Abstrata (AST)** para representar a estrutura hierárquica da expressão.
   - **Parser de Descida Recursiva:** A técnica de parsing implementada.
