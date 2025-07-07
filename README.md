@@ -18,7 +18,7 @@
 
 ---
 
-## 🎬 Demonstração
+##  Demonstração
 
 <div align="center">
 
@@ -30,7 +30,7 @@
 
 ---
 
-## ✨ Funcionalidades Principais
+##  Funcionalidades Principais
 
 - **Análise Completa:** Implementação de um **Analisador Léxico (Lexer)** para tokenizar a expressão e um **Analisador Sintático (Parser)** de descida recursiva para construir a árvore de operações.
 - **Precedência de Operadores:** Respeita a ordem matemática correta das operações (`^` antes de `*`/`/` antes de `+`/`-`).
@@ -43,7 +43,7 @@
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 <table align="center">
   <tr>
@@ -60,7 +60,7 @@
 
 ---
 
-## 🛠️ Tecnologias e Conceitos Aplicados
+## Tecnologias e Conceitos Aplicados
 
 - **Linguagem:** **Python 3**
 - **Interface Gráfica:** **PySide6 (Qt for Python)**
@@ -72,9 +72,8 @@
 
 ---
 
-## 🚀 Possíveis Melhorias
+## Possíveis Melhorias
 
-Este projeto tem uma base sólida que permite diversas expansões interessantes. Algumas ideias para o futuro incluem:
 
 - **Suporte a Funções Matemáticas:**
   - Implementar funções como `sqrt()`, `log()`, `sin()`, `cos()`, `tan()`, etc.
@@ -95,7 +94,7 @@ Este projeto tem uma base sólida que permite diversas expansões interessantes.
 
 ---
 
-## ⚙️ Como Executar
+##  Como Executar
 
 Siga os passos abaixo para executar o projeto em sua máquina.
 
@@ -127,11 +126,10 @@ Siga os passos abaixo para executar o projeto em sua máquina.
     ```
 
 
-## 🎓 Origem do Projeto
+---
 
-Este projeto foi desenvolvido como requisito avaliativo da disciplina de **Teoria da Computação** no **Instituto Federal do Ceará (IFCE) - Campus Maracanaú**, no ano de 2025. O objetivo foi aplicar na prática os conceitos teóricos da disciplina.
+Este projeto foi desenvolvido como requisito avaliativo da disciplina de **Teoria da Computação** no **Instituto Federal do Ceará  - Campus Maracanaú**
 
 <div align="center">
   <img src="https://github.com/Junior-jrp/ParseMathExpression/blob/main/logo.png?raw=true" alt="Logo" width="150"/>
 </div>
-
