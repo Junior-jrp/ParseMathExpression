@@ -22,7 +22,7 @@
 
 <div align="center">
 
-![GIF da Aplicação](https://github.com/Junior-jrp/ParseMathExpression/blob/main/Readme/gif_PME.gif?raw=true)
+![GIF da Aplicação](https://github.com/Junior-jrp/ParseMathExpression/blob/main/ReadmeAssets/gif_PME.gif?raw=true)
 
 
 
@@ -52,9 +52,9 @@
     <td align="center"><strong>Sobre</strong></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/Junior-jrp/ParseMathExpression/blob/main/Readme/Image2.png?raw=true" alt="Screenshot da Calculadora" width="400"/></td>
-    <td><img src="https://github.com/Junior-jrp/ParseMathExpression/blob/main/Readme/Image3.png?raw=true" alt="Screenshot dos Exemplos" width="400"/></td>
-    <td><img src="https://github.com/Junior-jrp/ParseMathExpression/blob/main/Readme/Image1.png?raw=true" alt="Screenshot Sobre" width="400"/></td>
+    <td><img src="https://github.com/Junior-jrp/ParseMathExpression/blob/main/ReadmeAssets/Image2.png?raw=true" alt="Screenshot da Calculadora" width="400"/></td>
+    <td><img src="https://github.com/Junior-jrp/ParseMathExpression/blob/main/ReadmeAssets/Image3.png?raw=true" alt="Screenshot dos Exemplos" width="400"/></td>
+    <td><img src="https://github.com/Junior-jrp/ParseMathExpression/blob/main/ReadmeAssets/Image1.png?raw=true" alt="Screenshot Sobre" width="400"/></td>
   </tr>
 </table>
 
